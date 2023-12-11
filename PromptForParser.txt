@@ -1,0 +1,488 @@
+provide me please a JavaScript code for the HTML
+
+<div class="catalogue-list catalogue-list-2" data-statuscount="15864">
+
+<div class="catalogue-item" id="bx_3218110189_1269" data-id="1269">
+  <div class="catalogue-item-inner" id="bx_3218110189_1269">
+    <a href="index.html.1.html" class="catalogue-item-container">
+      <div class="catalogue-item-logo">
+        <img  src="https://e-pr.online/upload/resize_cache/iblock/9d8/193_82_1/www.bizjournals.comchicago.png"
+              alt="Chicago Business Journal..">
+      </div>
+      <div class="catalogue-item-text">
+        <div class="catalogue-item-title">
+          Chicago Business Journal
+        </div>
+        <div class="catalogue-item-url">
+          <span data-href="https://www.bizjournals.com/chicago/">
+            www.bizjournals.com/chicago/
+          </span>
+        </div>
+      </div>
+      <div class="catalogue-item-info">
+        <div class="catalogue-item-info-inner">
+          <div class="catalogue-item-info-item">
+            <div class="catalogue-item-info-title">
+              Country
+            </div>
+            <div class="catalogue-item-info-value">
+              <div class="catalogue-item-info-flags">
+                <img src="https://e-pr.online/local/templates/e_pr_public_V2/files/flags/USA.png" alt="">
+              </div>
+            </div>
+          </div>
+          <div class="catalogue-item-info-item">
+            <div class="catalogue-item-info-title">
+              Language
+            </div>
+            <div class="catalogue-item-info-value">
+              <div class="catalogue-item-info-flags">
+                <img src="https://e-pr.online/local/templates/e_pr_public_V2/files/flags/English.png" alt="">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="catalogue-item-info catalogue-item-info-category">
+        <div class="catalogue-item-info-inner">
+          <div class="catalogue-item-info-item">
+            <div class="catalogue-item-info-title">
+              Category
+            </div>
+            <div class="catalogue-item-info-value">
+              Business
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="catalogue-item-info">
+        <div class="catalogue-item-info-inner">
+          <div class="catalogue-item-info-item">
+            <div class="catalogue-item-info-title">
+              Visits
+            </div>
+            <div class="catalogue-item-info-value">
+              11 800 000
+            </div>
+          </div>
+          <div class="catalogue-item-info-item">
+            <div class="catalogue-item-info-title">
+              DR
+            </div>
+            <div class="catalogue-item-info-value">
+              91
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="catalogue-item-price">
+        $2,900
+      </div>
+      <div class="catalogue-item-special">
+        <img src="https://e-pr.online/local/templates/e_pr_public_V2/images/catalogue-filter-bestseller.svg" alt="">
+        <img src="https://e-pr.online/local/templates/e_pr_public_V2/images/catalogue-filter-forbes.svg" alt="">
+        <div class="catalogue-item-special-hint">
+          <div class="catalogue-item-special-hint-item">
+            <img src="https://e-pr.online/local/templates/e_pr_public_V2/images/catalogue-filter-bestseller.svg" alt="">
+            Best Seller
+          </div>
+          <div class="catalogue-item-special-hint-item">
+            <img src="https://e-pr.online/local/templates/e_pr_public_V2/images/catalogue-filter-forbes.svg" alt="">
+              Business journal
+          </div>
+        </div>
+      </div>
+    </a>
+    <a href="https://e-pr.online/local/templates/e_pr_public_V2/windows/cart.php?id=1269" class="catalogue-item-cart window-link">
+      <span>
+        <svg>
+          <use xlink:href="/local/templates/e_pr_public_V2/images/sprite.svg#icon-cart"></use>
+        </svg>
+        Add to order
+      </span>
+      <span>
+        <svg>
+          <use xlink:href="/local/templates/e_pr_public_V2/images/sprite.svg#icon-cart-in"></use>
+        </svg>
+        In order
+      </span>
+    </a>
+    <a href="javascript:;" class="catalogue-item-favourite">
+      <svg>
+        <use xlink:href="/local/templates/e_pr_public_V2/images/sprite.svg#icon-favourite-catalogue"></use>
+      </svg>
+      <svg>
+        <use xlink:href="/local/templates/e_pr_public_V2/images/sprite.svg#icon-favourite-catalogue-active"></use>
+      </svg>
+    </a>
+  </div>
+</div>
+
+</div>
+
+in a div with class catalogue-list
+
+find all div elements with class catalogue-item
+
+extract the attribute data-id whose value is output to the console.log
+if data available or print name of attribute and next of colon string "no-data"
+
+extract text value attribute of id with mask bx_3218110189_1269
+divide this value into three parts based on division by underscore and output all parts to the console.log
+if data available or print name of attribute and next of colon string "no-data"
+
+in a div tag with class catalogue-item-title extract text content into console.log
+if data available or print class name and next of colon string "no-data"
+
+extract the text content of the span tag of the data-href attribute and output it to the console.log
+if data available or print name of attribute and next of colon string "no-data"
+
+from both div tags with class catalogue-item-info-flags
+extract the text contents of the img tag of the src attribute and output the last 12 characters to the console.log
+
+in a div tag with class catalogue-item-info-category
+extract the text contents of a div tag with class catalogue-item-info-title to the console.log
+and through a colon output to the console the text contents of a div tag with class catalogue-item-info-value and all its descendants, if any
+
+put the text contents of a div tag with class catalogue-item-price to the console.log
+if data available or print class name and next of colon string "no-data"
+
+from a div tag with class catalogue-item-special
+extract the text contents of both div tags with class catalogue-item-special-hint-item to the console.log
+if data available or print class name and next of colon string "no-data"
+
+with check of correct data extracting on every step
+
+and put the data into file with name that contain date in iso format and time
+
+ask me with prompt about the place to save the file
+
+
+
+
+
+
+
+
+
+
+
+provide me please a JavaScript code for the HTML
+
+<div class="catalogue-list catalogue-list-2" data-statuscount="15864">
+
+<div class="catalogue-item" id="bx_3218110189_1269" data-id="1269">
+  <div class="catalogue-item-inner" id="bx_3218110189_1269">
+    <a href="index.html.1.html" class="catalogue-item-container">
+      <div class="catalogue-item-logo">
+        <img  src="https://e-pr.online/upload/resize_cache/iblock/9d8/193_82_1/www.bizjournals.comchicago.png"
+              alt="Chicago Business Journal..">
+      </div>
+      <div class="catalogue-item-text">
+        <div class="catalogue-item-title">
+          Chicago Business Journal
+        </div>
+        <div class="catalogue-item-url">
+          <span data-href="https://www.bizjournals.com/chicago/">
+            www.bizjournals.com/chicago/
+          </span>
+        </div>
+      </div>
+      <div class="catalogue-item-info">
+        <div class="catalogue-item-info-inner">
+          <div class="catalogue-item-info-item">
+            <div class="catalogue-item-info-title">
+              Country
+            </div>
+            <div class="catalogue-item-info-value">
+              <div class="catalogue-item-info-flags">
+                <img src="https://e-pr.online/local/templates/e_pr_public_V2/files/flags/USA.png" alt="">
+              </div>
+            </div>
+          </div>
+          <div class="catalogue-item-info-item">
+            <div class="catalogue-item-info-title">
+              Language
+            </div>
+            <div class="catalogue-item-info-value">
+              <div class="catalogue-item-info-flags">
+                <img src="https://e-pr.online/local/templates/e_pr_public_V2/files/flags/English.png" alt="">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="catalogue-item-info catalogue-item-info-category">
+        <div class="catalogue-item-info-inner">
+          <div class="catalogue-item-info-item">
+            <div class="catalogue-item-info-title">
+              Category
+            </div>
+            <div class="catalogue-item-info-value">
+              Business
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="catalogue-item-info">
+        <div class="catalogue-item-info-inner">
+          <div class="catalogue-item-info-item">
+            <div class="catalogue-item-info-title">
+              Visits
+            </div>
+            <div class="catalogue-item-info-value">
+              11 800 000
+            </div>
+          </div>
+          <div class="catalogue-item-info-item">
+            <div class="catalogue-item-info-title">
+              DR
+            </div>
+            <div class="catalogue-item-info-value">
+              91
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="catalogue-item-price">
+        $2,900
+      </div>
+      <div class="catalogue-item-special">
+        <img src="https://e-pr.online/local/templates/e_pr_public_V2/images/catalogue-filter-bestseller.svg" alt="">
+        <img src="https://e-pr.online/local/templates/e_pr_public_V2/images/catalogue-filter-forbes.svg" alt="">
+        <div class="catalogue-item-special-hint">
+          <div class="catalogue-item-special-hint-item">
+            <img src="https://e-pr.online/local/templates/e_pr_public_V2/images/catalogue-filter-bestseller.svg" alt="">
+            Best Seller
+          </div>
+          <div class="catalogue-item-special-hint-item">
+            <img src="https://e-pr.online/local/templates/e_pr_public_V2/images/catalogue-filter-forbes.svg" alt="">
+              Business journal
+          </div>
+        </div>
+      </div>
+    </a>
+    <a href="https://e-pr.online/local/templates/e_pr_public_V2/windows/cart.php?id=1269" class="catalogue-item-cart window-link">
+      <span>
+        <svg>
+          <use xlink:href="/local/templates/e_pr_public_V2/images/sprite.svg#icon-cart"></use>
+        </svg>
+        Add to order
+      </span>
+      <span>
+        <svg>
+          <use xlink:href="/local/templates/e_pr_public_V2/images/sprite.svg#icon-cart-in"></use>
+        </svg>
+        In order
+      </span>
+    </a>
+    <a href="javascript:;" class="catalogue-item-favourite">
+      <svg>
+        <use xlink:href="/local/templates/e_pr_public_V2/images/sprite.svg#icon-favourite-catalogue"></use>
+      </svg>
+      <svg>
+        <use xlink:href="/local/templates/e_pr_public_V2/images/sprite.svg#icon-favourite-catalogue-active"></use>
+      </svg>
+    </a>
+  </div>
+</div>
+
+</div>
+
+in a div with class catalogue-list
+
+find all div elements with class catalogue-item
+
+checking availability of data in every steps and replacing null with string "null-data"
+
+extract the attribute data-id whose value is output to the console.log
+
+extract text value attribute of  id. with mask bx_3218110189_1269
+divide this value into three parts based on division by underscore and output all three parts to the console.log
+
+in a div tag with class catalogue-item-title extract text content into console.log
+
+extract the text content of the span tag of the data-href attribute and output it to the console.log
+
+from both div tags with class catalogue-item-info-flags
+extract the text contents of the img tag of the src attribute and output the last 12 characters to the console.log
+
+in a div tag with class catalogue-item-info-category
+extract the text contents of a div tag with class catalogue-item-info-title to the console.log
+and through a colon
+ output to the console the text contents of a div tag with class catalogue-item-info-value and all its descendants, if any
+
+put the text contents of a div tag with class catalogue-item-price to the console.log
+
+from a div tag with class catalogue-item-special
+extract the text contents of both div tags with class catalogue-item-special-hint-item to the console.log
+
+with check of correct data extracting on every step
+
+and put the data into file with name that contain date in iso format and time
+
+ask me with prompt about the place to save the file
+
+
+
+
+
+
+
+
+
+
+
+provide me please a JavaScript code for the HTML
+
+<div class="catalogue-list catalogue-list-2" data-statuscount="15864">
+
+<div class="catalogue-item" id="bx_3218110189_1269" data-id="1269">
+  <div class="catalogue-item-inner" id="bx_3218110189_1269">
+    <a href="index.html.1.html" class="catalogue-item-container">
+      <div class="catalogue-item-logo">
+        <img  src="https://e-pr.online/upload/resize_cache/iblock/9d8/193_82_1/www.bizjournals.comchicago.png"
+              alt="Chicago Business Journal..">
+      </div>
+      <div class="catalogue-item-text">
+        <div class="catalogue-item-title">
+          Chicago Business Journal
+        </div>
+        <div class="catalogue-item-url">
+          <span data-href="https://www.bizjournals.com/chicago/">
+            www.bizjournals.com/chicago/
+          </span>
+        </div>
+      </div>
+      <div class="catalogue-item-info">
+        <div class="catalogue-item-info-inner">
+          <div class="catalogue-item-info-item">
+            <div class="catalogue-item-info-title">
+              Country
+            </div>
+            <div class="catalogue-item-info-value">
+              <div class="catalogue-item-info-flags">
+                <img src="https://e-pr.online/local/templates/e_pr_public_V2/files/flags/USA.png" alt="">
+              </div>
+            </div>
+          </div>
+          <div class="catalogue-item-info-item">
+            <div class="catalogue-item-info-title">
+              Language
+            </div>
+            <div class="catalogue-item-info-value">
+              <div class="catalogue-item-info-flags">
+                <img src="https://e-pr.online/local/templates/e_pr_public_V2/files/flags/English.png" alt="">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="catalogue-item-info catalogue-item-info-category">
+        <div class="catalogue-item-info-inner">
+          <div class="catalogue-item-info-item">
+            <div class="catalogue-item-info-title">
+              Category
+            </div>
+            <div class="catalogue-item-info-value">
+              Business
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="catalogue-item-info">
+        <div class="catalogue-item-info-inner">
+          <div class="catalogue-item-info-item">
+            <div class="catalogue-item-info-title">
+              Visits
+            </div>
+            <div class="catalogue-item-info-value">
+              11 800 000
+            </div>
+          </div>
+          <div class="catalogue-item-info-item">
+            <div class="catalogue-item-info-title">
+              DR
+            </div>
+            <div class="catalogue-item-info-value">
+              91
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="catalogue-item-price">
+        $2,900
+      </div>
+      <div class="catalogue-item-special">
+        <img src="https://e-pr.online/local/templates/e_pr_public_V2/images/catalogue-filter-bestseller.svg" alt="">
+        <img src="https://e-pr.online/local/templates/e_pr_public_V2/images/catalogue-filter-forbes.svg" alt="">
+        <div class="catalogue-item-special-hint">
+          <div class="catalogue-item-special-hint-item">
+            <img src="https://e-pr.online/local/templates/e_pr_public_V2/images/catalogue-filter-bestseller.svg" alt="">
+            Best Seller
+          </div>
+          <div class="catalogue-item-special-hint-item">
+            <img src="https://e-pr.online/local/templates/e_pr_public_V2/images/catalogue-filter-forbes.svg" alt="">
+              Business journal
+          </div>
+        </div>
+      </div>
+    </a>
+    <a href="https://e-pr.online/local/templates/e_pr_public_V2/windows/cart.php?id=1269" class="catalogue-item-cart window-link">
+      <span>
+        <svg>
+          <use xlink:href="/local/templates/e_pr_public_V2/images/sprite.svg#icon-cart"></use>
+        </svg>
+        Add to order
+      </span>
+      <span>
+        <svg>
+          <use xlink:href="/local/templates/e_pr_public_V2/images/sprite.svg#icon-cart-in"></use>
+        </svg>
+        In order
+      </span>
+    </a>
+    <a href="javascript:;" class="catalogue-item-favourite">
+      <svg>
+        <use xlink:href="/local/templates/e_pr_public_V2/images/sprite.svg#icon-favourite-catalogue"></use>
+      </svg>
+      <svg>
+        <use xlink:href="/local/templates/e_pr_public_V2/images/sprite.svg#icon-favourite-catalogue-active"></use>
+      </svg>
+    </a>
+  </div>
+</div>
+
+</div>
+
+in a div with class catalogue-list
+
+find all div elements with class catalogue-item
+
+extract the attribute data-id whose value is output to the console.log
+
+extract text value attribute of  id. with mask bx_3218110189_1269
+divide this value into three parts based on division by underscore and output all three parts to the console.log
+
+in a div tag with class catalogue-item-title extract text content into console.log
+
+extract the text content of the span tag of the data-href attribute and output it to the console.log
+
+from both div tags with class catalogue-item-info-flags
+extract the text contents of the img tag of the src attribute and output the last 12 characters to the console.log
+
+in a div tag with class catalogue-item-info-category
+extract the text contents of a div tag with class catalogue-item-info-title to the console.log
+and through a colon
+ output to the console the text contents of a div tag with class catalogue-item-info-value and all its descendants, if any
+
+put the text contents of a div tag with class catalogue-item-price to the console.log
+
+from a div tag with class catalogue-item-special
+extract the text contents of both div tags with class catalogue-item-special-hint-item to the console.log
+
+with check of correct data extracting on every step
+
+and put result into file with name that contain date in iso format and time
+
+ask me with prompt about the place to save the file
